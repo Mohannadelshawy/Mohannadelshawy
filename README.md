@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohaned Elshawy (Honda)
-- 👀 I’m interested in Digital Design and Verification/Software
-- 🌱 I’m currently learning Computer Architecture 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohannad Alshawi
+- 👀 I’m interested in ASIC Physical design, Backend verification, and signoff flows
+- 🌱 I’m currently learning Physical design 
+- 💞️ I’m looking to collaborate on Physical design projects
 - 📫 How to reach me mohannad.elshawy@gmail.com
 
 <!---
